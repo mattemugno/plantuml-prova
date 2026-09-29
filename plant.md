@@ -1,6 +1,6 @@
 ```plantuml
 @startuml
-actor Utente
+actor Gatto
 participant "Frontend" as FE
 participant "Backend API" as BE
 database "Database" as DB
